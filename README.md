@@ -43,7 +43,7 @@ The pipeline integrates multiple data sources, applies robust preprocessing and 
 
 ## 🚀 How to Run
 
-1. **Clone the repository**:
+  **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/oil-price-forecasting.git
    cd oil-price-forecasting
