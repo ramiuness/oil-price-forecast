@@ -52,7 +52,7 @@ The pipeline integrates multiple data sources, applies robust preprocessing and 
 
 ## Reference
 
-If you use this repository or find it helpful, please consider citing this repository.
+If you use the notebook or find it helpful, please consider citing this repository.
 
 
 ## License
