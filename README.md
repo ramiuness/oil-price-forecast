@@ -47,3 +47,15 @@ The pipeline integrates multiple data sources, applies robust preprocessing and 
    ```bash
    git clone https://github.com/your-username/oil-price-forecasting.git
    cd oil-price-forecasting
+
+**Notebook**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+
+## Reference
+
+If you use this repository or find it helpful, please consider citing this repository.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
